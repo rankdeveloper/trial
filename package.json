@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "deploying node ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"node ./index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iRankush/trial.git"
+  },
+  "author": "rankush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iRankush/trial/issues"
+  },
+  "homepage": "https://github.com/iRankush/trial#readme"
 }
